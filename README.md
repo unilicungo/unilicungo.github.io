@@ -1,2 +1,2 @@
-# unilicungo.github.io
+# unilicungo
 Website de Informática
